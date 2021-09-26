@@ -1,6 +1,6 @@
 @echo off
 
-pip install ursina
+pip install -r requirements.txt
 
 color 02
 
